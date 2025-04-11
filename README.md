@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hello there, I’m Vishnu!  
+🛡️ Aspiring Cybersecurity Professional | 🎓 Postgraduate High Honor Roll – The University of Sydney | 🐍 HackTheBox Demon
 
-<!--
-**Julabob/Julabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧠 About Me  
+🔐 Security+ Certified | ISC2 CC | Google Cybersecurity | GAQM Certified Penetration Tester  
+💼 Hands-on Penetration Tester at Medi IT – Securing sensitive healthcare systems  
+🧠 Former Cybersecurity Intern at Deloitte India – Vulnerability assessments, threat mitigation, and incident response  
+💻 Tutor, Planner & Scheduler – Experienced in mentoring and operations  
+📍 Based in Sydney, AUS | Open to relocation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Tools & Technologies  
+**Platforms & OS**: Windows, Kali Linux  
+**Languages**: Python, SQL  
+**IDEs & Tools**: VS Code, Burp Suite, Metasploit, Wireshark, SQLMap, Nessus, Microsoft Sentinel  
+**Security & Monitoring**: Wazuh, ELK Stack, Sysinternals, Splunk  
+**Network & Threat Analysis**: Snort, Zeek, MITRE ATT&CK, VirusTotal  
+
+---
+
+🛠️ Featured Projects & Experience  
+🧪 **Medi IT** – Discovered and mitigated SQLi, XSS, and brute-force vulnerabilities in Medi IT healthcare platform  
+📊 **Microsoft Sentinel Log Analysis** – Performed log monitoring, threat detection, and alert tuning  
+🛡️ **Deloitte India Internship** – Reduced system vulnerabilities by 40%, improved incident response time by 30%  
+📦 **Burp Suite & Wireshark Labs** – Performed deep packet inspection and security assessments  
+🔍 **Security Projects & CTFs** – Regularly participate in hands-on challenges to sharpen Red/Blue Team skills  
+
+---
+
+🎯 Goals for 2025  
+✅ Obtain OSCP certification  
+
+---
+
+📫 Let’s Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishnu-julakanti)   
+
+---
+
+🎮 Fun Facts  
+🎓 Postgraduate High Honor Roll recipient – The University of Sydney (Master of Cybersecurity)  
+👨‍🏫 Worked as a tutor at The King's School & A Team Tuition  
+🧩 Passionate about solving CTFs and threat hunting  
+🕹️ Huge fan of games and movies  
