@@ -4,7 +4,8 @@
 ---
 
 🧠 About Me  
-🔐 Security+ Certified | ISC2 CC | Google Cybersecurity | GAQM Certified Penetration Tester  
+🔐 Security+ Certified | ISC2 CC | Google Cybersecurity | GAQM Certified Penetration Tester | Certified SAFe 5 Practitioner | Cisco Ethical Hacker | AWS Academy Cloud Foundations & Cloud 
+Architecting
 💼 Hands-on Penetration Tester at Medi IT – Securing sensitive healthcare systems  
 🧠 Former Cybersecurity Intern at Deloitte India – Vulnerability assessments, threat mitigation, and incident response  
 💻 Tutor, Planner & Scheduler – Experienced in mentoring and operations  
