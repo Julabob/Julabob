@@ -1,5 +1,5 @@
 👋 Hello there, I’m Vishnu!  
-🛡️ Aspiring Cybersecurity Professional | 🎓 Postgraduate High Honor Roll – The University of Sydney | 🐍 HackTheBox Demon
+🛡️ Aspiring Cybersecurity Professional | 🎓 Postgraduate High Honor Roll – The University of Sydney | 🐍 HackTheBox Enthusiast
 
 ---
 
